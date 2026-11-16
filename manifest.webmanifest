@@ -1,0 +1,18 @@
+{
+  "name": "ABORO RUN: LAGOS HUSTLE",
+  "short_name": "Aboro Run",
+  "description": "An original 3D endless runner through the streets of Lagos. Dodge danfo, jump potholes, chop coins.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#0d0a12",
+  "theme_color": "#0d0a12",
+  "categories": ["games"],
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
